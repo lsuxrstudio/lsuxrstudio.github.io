@@ -1,10 +1,9 @@
 ---
-title: Home
 nav_order: 1
 permalink: /
 ---
 
-# LSU XR Studio
+# Home
 
 ## Contents
 * [XR Studio Guides](https://lsuxrstudio.github.io/xrstudioguides)
