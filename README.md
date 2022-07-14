@@ -8,4 +8,4 @@ permalink: /
 
 ## Contents
 * [XR Studio Guides](https://lsuxrstudio.github.io/xrstudioguides)
-* [XR Performance Class]https://lsuxrstudio.github.io/xrperformance)
+* [XR Performance Class](https://lsuxrstudio.github.io/xrperformance)
