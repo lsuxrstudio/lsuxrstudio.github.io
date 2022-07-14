@@ -1,1 +1,5 @@
-# lsuxrstudio.github.io
+---
+title: home
+---
+
+# LSU XR Studio
