@@ -4,6 +4,7 @@ permalink: /
 ---
 
 # Home
+This is a landing page for GitHub repos and webpages entangled with the LSU XR Studio.
 
 ## Contents
 * [XR Studio Guides](https://lsuxrstudio.github.io/xrstudioguides)
