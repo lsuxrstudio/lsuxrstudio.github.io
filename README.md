@@ -9,4 +9,4 @@ This is a landing page for GitHub repos and webpages entangled with the LSU XR S
 ## Contents
 * [XR Studio Guides](https://lsuxrstudio.github.io/xrstudioguides)
 * [XR Performance Class](https://lsuxrstudio.github.io/xrperformance)
-* [Overall Project Template](https://github.com/lsuxrstudio/overall-project-template) ([Direct Download Link](https://github.com/lsuxrstudio/overall-project-template/archive/refs/tags/v1.0.0.zip))
+* [Overall Project Template](https://github.com/lsuxrstudio/overall-project-template) ([Direct Download Link](https://github.com/lsuxrstudio/overall-project-template/zipball/main))
